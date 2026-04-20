@@ -4,6 +4,9 @@ export default defineConfig({
   title: 'Hx前端技术规范文档',
   description: 'Hx前端技术规范文档',
   
+  // GitHub Pages 部署配置
+  base: '/hx-frontend-spec/',
+  
   // Vite 配置
   vite: {
     server: {
