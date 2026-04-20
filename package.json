@@ -1,0 +1,15 @@
+{
+  "name": "hx-frontend-spec",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hx前端技术规范文档",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.12"
+  }
+}
